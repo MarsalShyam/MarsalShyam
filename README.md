@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shyam
 - 👀 I’m passionate developer learning **java**, **Node.js**, and **Web Development**
-- 🌱 I’m currently learning **Mongoose**, **TailwindCSS**, and **DSA**
+- 🌱 I’m currently learning **ReactJs**, **Aptitude**, and **DSA**
 - 🔭 Current project: [Music Player Website](https://github.com/shyam/music-player) 
 - 💞️ I’m looking to collaborate on WevDev Team
 - 😄 Pronouns: MR. Shyam
