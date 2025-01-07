@@ -35,7 +35,7 @@ Take a look at my journey from basic projects to full-stack applications. Each p
 ---
 
 ## 📫 **Connect With Me**  
-- **LinkedIn**: [Shyam's Profile](https://www.linkedin.com/in/shyam-kumar)  
+- **LinkedIn**: [Shyam's Profile](https://www.linkedin.com/in/shyam-kumar-99bb0133b)  
 - **GitHub**: [GitHub Profile](https://github.com/MarsalShyam)  
 
 ---
