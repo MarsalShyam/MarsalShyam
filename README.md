@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Shyam  
 
 👀 **Passionate Developer** exploring Java, Node.js, and Full-Stack Web Development.  
-🌱 **Currently Learning**: React.js, Next.js, GSAP, Three.js, Aptitude, and DSA (Data Structures & Algorithms).  
-🔭 **Current Project**: A Music Player Website and a Twitter-like Web App with modern features.  
+🌱 **Currently Learning**: Advanced React.js, Next.js, GSAP, Three.js, Aptitude, and DSA (Data Structures & Algorithms).  
+🔭 **Current Project**: A Fully functional e-commerce web app featuring product management, cart, orders, admin dashboard, Integrated Firebase + Razorpay, and Delivered a responsive, user-focused interface that enhanced customer experience and operational efficiency. 
 💞️ **Looking to Collaborate**: On Web Development projects with innovative and driven teams.  
 💻 **Pronouns**: Mr. Shyam  
 
@@ -11,8 +11,8 @@
 ## 🛠️ **Skills and Technologies**
 - **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Material-UI, React.js.  
 - **Backend**: Node.js, Express.js.  
-- **Databases**: MongoDB.  
-- **Tools**: GitHub, Git, VS Code.  
+- **Databases**: MongoDB, SQL, MongoDB Atlas, PostgreSQL.  
+- **Tools**: GitHub,Postman, Git, VS Code.  
 - **Others**: Java, Mongoose, REST APIs.  
 
 ---
