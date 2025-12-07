@@ -1,47 +1,87 @@
-# 👋 Hi, I’m Shyam  
+# 👋 Hi, I’m Shyam Kumar  
 
-👀 **Passionate Developer** exploring Java, Node.js, and Full-Stack Web Development.  
-🌱 **Currently Learning**: Advanced React.js, Next.js, GSAP, Three.js, Aptitude, and DSA (Data Structures & Algorithms).  
-🔭 **Current Project**: A Fully functional e-commerce web app featuring product management, cart, orders, admin dashboard, Integrated Firebase + Razorpay, and Delivered a responsive, user-focused interface that enhanced customer experience and operational efficiency. 
-💞️ **Looking to Collaborate**: On Web Development projects with innovative and driven teams.  
-💻 **Pronouns**: Mr. Shyam  
+🚀 **Full-Stack Developer | Java & Web Enthusiast**  
+I’m a Computer Science Engineering student passionate about building scalable, user-centric web applications. I enjoy turning ideas into clean, functional products using modern web technologies.
 
 ---
 
-## 🛠️ **Skills and Technologies**
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Material-UI, React.js.  
-- **Backend**: Node.js, Express.js.  
-- **Databases**: MongoDB, SQL, MongoDB Atlas, PostgreSQL.  
-- **Tools**: GitHub,Postman, Git, VS Code.  
-- **Others**: Java, Mongoose, REST APIs.  
+## 🌱 Currently Learning
+- Advanced **React.js** & **Next.js**
+- **GSAP** & **Three.js** for interactive UI/UX
+- **Data Structures & Algorithms**
+- System design fundamentals
 
 ---
 
-## 🚀 **My Current Goals**  
-- Master React.js, GSAP, and Three.js for building dynamic and interactive web applications.  
-- Learn Next.js for server-side rendering and better performance in production-grade apps.  
-- Build real-world projects to strengthen problem-solving skills and understanding of system design.  
+## 🔭 Experience
+**Full Stack Development Intern – CODE ALPHA (Jul 2025 – Aug 2025)**  
+- Built a fully functional **e-commerce web application** with product management, cart, orders, and admin dashboard  
+- Integrated **Firebase Authentication** and **Razorpay Payment Gateway** for secure transactions  
+- Designed a **responsive, user-focused interface** improving customer experience and operational efficiency  
 
 ---
 
-## 💻 **Explore My Projects Below!**  
-Take a look at my journey from basic projects to full-stack applications. Each project showcases my growth as a developer!  
+## 🛠️ Skills & Technologies
 
-### 🌟 Featured Projects
-- **To-Do Web App**: Built with React.js, showcasing CRUD functionality.  
-- **Password Manager**: A secure web app using Tailwind CSS, React.js, and Vite.  
-- **Music Player Website**: In progress; includes robust animations and a user-friendly interface.  
+**Languages**  
+Java, JavaScript, Python, C, HTML, CSS  
+
+**Frontend**  
+React.js, Next.js, Tailwind CSS, Material UI, Framer Motion, GSAP *(learning)*, Three.js *(learning)*  
+
+**Backend**  
+Node.js, Express.js, Spring Boot  
+
+**Databases**  
+MongoDB, MySQL, PostgreSQL, Firebase  
+
+**Tools**  
+Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA  
 
 ---
 
-## 📫 **Connect With Me**  
-- **LinkedIn**: [Shyam's Profile](https://www.linkedin.com/in/shyam-kumar-99bb0133b)  
-- **GitHub**: [GitHub Profile](https://github.com/MarsalShyam)  
+## 🌟 Featured Projects
+
+### 🟢 GnyanMediaUniverse  
+*College Social Media Website*  
+**Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
+- Social media gallery platform for students and faculty  
+- Secure backend APIs and responsive modern UI  
+
+### 🟢 Employee Management System  
+**Tech:** Java, Spring Boot, React.js, MySQL  
+- Full-stack CRUD application for managing employee records  
+- REST APIs with structured database design  
+
+### 🟢 Low-Code AI-Powered Insights Platform  
+**Tech:** React.js, Node.js, MongoDB Atlas, ChatGPT API  
+- AI chatbot for insights, automated reports, and predictive analytics  
+- PDF upload & processing with secure authentication  
+
+### 🟢 UI Clones (Netflix, Amazon, Restaurant Website)  
+**Tech:** React.js, Tailwind CSS  
+- Focused on responsive design, reusable components, and UX consistency  
 
 ---
 
-## ⚡ **Fun Fact**  
-- I believe in consistent learning: "While life isn’t always fair, our actions can tip the scales."  
+## 🎯 Current Goals
+- Build production-ready **full-stack applications**
+- Improve problem-solving and **system design thinking**
+- Explore **AI + Web** integrations for real-world use cases
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/shyam-kumar](http://www.linkedin.com/in/shyam-kumar)  
+- **GitHub:** [github.com/MarsalShyam](https://github.com/MarsalShyam)  
+- **Email:** shyam2004pkd@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+I believe in consistent learning:  
+> *“While life isn’t always fair, our actions can tip the scales.”*
+
 
 <!---
 MarsalShyam/MarsalShyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
