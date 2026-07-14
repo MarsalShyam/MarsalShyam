@@ -47,7 +47,7 @@ I am a **Computer Science Engineering graduate** with hands-on experience buildi
 
 | 🏢 Company & Role |  Duration & Location | 🚀 Key Contributions & Impact | 🔗 Project Links |
 | :--- | :--- | :--- | :--- |
-| **Code Alpha**<br>*(Full Stack Dev Intern)* | **July 2024 – Jan 2025**<br>📍 Lucknow, Uttar Pradesh |  **E-Commerce Platform:** Built MERN platform for *Thamizhoviya* enabling DTC sales.<br><br>⚙️ **Backend:** RESTful APIs (Node/Express/Mongo), Clerk Auth, Razorpay.<br><br>📊 **Admin Dashboard:** Real-time inventory tracking + analytics (reduced manual effort by ~30%).<br><br>📈 **Impact:** SEO-optimized frontend on Vercel → **20% sales increase**. | 🔗 [**Live Site**](https://thamizhoviyaa.vercel.app/)<br>💻 [**GitHub Repo**]([https://github.com/MarsalShyam/thamizhoviya-ecom](https://github.com/MarsalShyam/Thamizhoviyaa-ecommerce-frontend)) |
+| **Code Alpha**<br>*(Full Stack Dev Intern)* | **July 2024 – Jan 2025**<br>📍 Lucknow, Uttar Pradesh |  **E-Commerce Platform:** Built MERN platform for *Thamizhoviya* enabling DTC sales.<br><br>⚙️ **Backend:** RESTful APIs (Node/Express/Mongo), Clerk Auth, Razorpay.<br><br>📊 **Admin Dashboard:** Real-time inventory tracking + analytics (reduced manual effort by ~30%).<br><br>📈 **Impact:** SEO-optimized frontend on Vercel → **20% sales increase**. | 🔗 [**Live Site**](https://thamizhoviyaa.vercel.app/)<br>💻 [**GitHub Repo**](https://github.com/MarsalShyam/Thamizhoviyaa-ecommerce-frontend) |
 
 ---
 
